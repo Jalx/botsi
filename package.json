@@ -1,0 +1,22 @@
+{
+  "name": "botsi",
+  "version": "1.0.0",
+  "description": "Website for Botsi Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jalx/botsi.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Alexis Guzmán",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Jalx/botsi/issues"
+  },
+  "homepage": "https://github.com/Jalx/botsi#readme"
+}
