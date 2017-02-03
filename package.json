@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Jalx/botsi/issues"
   },
-  "homepage": "https://github.com/Jalx/botsi#readme"
+  "homepage": "https://github.com/Jalx/botsi#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.3"
+  }
 }
