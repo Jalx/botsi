@@ -1,7 +1,10 @@
-function component () {
-  var element = document.createElement('div');
-  element.innerHTML = 'Hello from webpack!! with JSX';
-  return element;
+import React from 'react';
+import {render} from 'react-dom';
+
+class App extends React.Component {
+    render () {
+        return <h1>Website for Botsi Project!!</h1>;
+    }
 }
-console.log('Hello World!');
-document.body.appendChild(component());
+
+render(<App/>, document.getElementById('app'));

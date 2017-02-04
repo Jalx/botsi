@@ -8,6 +8,15 @@ var config = {
     output: {
         path: BUID_DIR,
         filename: 'app.bundle.js'
+    },
+    module : {
+        loaders: [
+            {
+                test: /\.jsx?/,
+                include: APP_DIR,
+                loader: 'babel'
+            }
+        ]
     }
 };
 module.exports = config;
