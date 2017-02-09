@@ -22148,7 +22148,7 @@
 	                        { className: 'inline-block  float-right' },
 	                        _react2.default.createElement(
 	                            'a',
-	                            { className: 'text-left', href: '#{{this.state.features.name}}' },
+	                            { className: 'text-left', href: '#!' },
 	                            this.state.features.name
 	                        ),
 	                        _react2.default.createElement(
@@ -23316,7 +23316,7 @@
 	                        null,
 	                        'Botsi'
 	                    ),
-	                    _react2.default.createElement('img', { src: '../../assets/logo.png', width: '125px', alt: 'Botsi' }),
+	                    _react2.default.createElement('img', { src: 'https://raw.githubusercontent.com/Jalx/botsi/master/assets/logo.png', width: '125px', alt: 'Botsi' }),
 	                    _react2.default.createElement(
 	                        'p',
 	                        null,
