@@ -24,11 +24,6 @@ export class Navbar extends React.Component{
                     <div className="inline-block float-left">
                         <a className="" href="#!">Botsi</a>
                     </div>
-                    <div className="inline-block  float-right">
-                        <a className="text-left" href="#!">{this.state.features.name}</a>
-                        <a className="text-center" href="#!">{this.state.pricing.name}</a>
-                        <a className="text-right" href="#!">{this.state.about.name}</a>        
-                    </div>
                 </div>
             </nav>
         );        

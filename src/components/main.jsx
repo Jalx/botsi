@@ -5,8 +5,6 @@ export class Main extends React.Component {
         return (
             <main>
                 <div className="container">
-                    <h1>Website for Botsi Project!!</h1>
-                    <h4>Website for Botsi Project!</h4>
                 </div>
             </main>
         );
