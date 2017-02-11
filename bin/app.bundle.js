@@ -23421,29 +23421,14 @@
 	                        'div',
 	                        { className: 'small-50' },
 	                        _react2.default.createElement(
-	                            'span',
+	                            'p',
 	                            null,
-	                            'Rights'
+	                            'Todos los derechos reservados, 2017.'
 	                        ),
 	                        _react2.default.createElement(
 	                            'p',
 	                            null,
-	                            'Todos los derechos reservados.'
-	                        ),
-	                        _react2.default.createElement(
-	                            'p',
-	                            null,
-	                            '2017.'
-	                        ),
-	                        _react2.default.createElement(
-	                            'p',
-	                            null,
-	                            'Botsi Project.'
-	                        ),
-	                        _react2.default.createElement(
-	                            'p',
-	                            null,
-	                            'UGB.'
+	                            'Botsi Project. UGB.'
 	                        )
 	                    )
 	                )
