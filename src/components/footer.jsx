@@ -9,7 +9,8 @@ export class Footer extends React.Component {
                         <span>Rights</span>
                         <p>Todos los derechos reservados.</p>
                         <p>2017.</p>                        
-                        <p>Botsi Project.</p>                        
+                        <p>Botsi Project.</p>
+                        <p>UGB.</p>                        
                         </div>
                     </div>
             </footer>

@@ -23439,6 +23439,11 @@
 	                            'p',
 	                            null,
 	                            'Botsi Project.'
+	                        ),
+	                        _react2.default.createElement(
+	                            'p',
+	                            null,
+	                            'UGB.'
 	                        )
 	                    )
 	                )
