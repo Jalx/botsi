@@ -6,16 +6,10 @@ export class Footer extends React.Component {
             <footer className="container">
                     <div className="row">
                         <div className="small-50">
-                        <span>Features</span>
-                        </div>
-                        <div className="small-50">
-                        <span>Disclaimer</span>
-                        </div>
-                        <div className="small-50">
-                            <span>Nosotros y Contacto</span>
-                        </div>                        
-                        <div className="small-50">
-                            <span>For Geeks</span>
+                        <span>Rights</span>
+                        <p>Todos los derechos reservados.</p>
+                        <p>2017.</p>                        
+                        <p>Botsi Project.</p>                        
                         </div>
                     </div>
             </footer>
