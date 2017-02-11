@@ -23423,34 +23423,22 @@
 	                        _react2.default.createElement(
 	                            'span',
 	                            null,
-	                            'Features'
-	                        )
-	                    ),
-	                    _react2.default.createElement(
-	                        'div',
-	                        { className: 'small-50' },
+	                            'Rights'
+	                        ),
 	                        _react2.default.createElement(
-	                            'span',
+	                            'p',
 	                            null,
-	                            'Disclaimer'
-	                        )
-	                    ),
-	                    _react2.default.createElement(
-	                        'div',
-	                        { className: 'small-50' },
+	                            'Todos los derechos reservados.'
+	                        ),
 	                        _react2.default.createElement(
-	                            'span',
+	                            'p',
 	                            null,
-	                            'Nosotros y Contacto'
-	                        )
-	                    ),
-	                    _react2.default.createElement(
-	                        'div',
-	                        { className: 'small-50' },
+	                            '2017.'
+	                        ),
 	                        _react2.default.createElement(
-	                            'span',
+	                            'p',
 	                            null,
-	                            'For Geeks'
+	                            'Botsi Project.'
 	                        )
 	                    )
 	                )
