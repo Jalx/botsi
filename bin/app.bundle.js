@@ -22142,25 +22142,6 @@
 	                            { className: '', href: '#!' },
 	                            'Botsi'
 	                        )
-	                    ),
-	                    _react2.default.createElement(
-	                        'div',
-	                        { className: 'inline-block  float-right' },
-	                        _react2.default.createElement(
-	                            'a',
-	                            { className: 'text-left', href: '#!' },
-	                            this.state.features.name
-	                        ),
-	                        _react2.default.createElement(
-	                            'a',
-	                            { className: 'text-center', href: '#!' },
-	                            this.state.pricing.name
-	                        ),
-	                        _react2.default.createElement(
-	                            'a',
-	                            { className: 'text-right', href: '#!' },
-	                            this.state.about.name
-	                        )
 	                    )
 	                )
 	            );
@@ -23380,20 +23361,7 @@
 	            return _react2.default.createElement(
 	                'main',
 	                null,
-	                _react2.default.createElement(
-	                    'div',
-	                    { className: 'container' },
-	                    _react2.default.createElement(
-	                        'h1',
-	                        null,
-	                        'Website for Botsi Project!!'
-	                    ),
-	                    _react2.default.createElement(
-	                        'h4',
-	                        null,
-	                        'Website for Botsi Project!'
-	                    )
-	                )
+	                _react2.default.createElement('div', { className: 'container' })
 	            );
 	        }
 	    }]);
