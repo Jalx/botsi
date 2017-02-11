@@ -8,7 +8,7 @@ export class Header extends React.Component {
                     <h1>Botsi</h1>
                     <img src="https://raw.githubusercontent.com/Jalx/botsi/master/assets/logo.png" width="125px" alt="Botsi"/>
                     <p>Botsi te ayuda a establecer una comunicación con tus clientes, en Español!</p>
-                    <a className="button" href="">Pruébalo</a>
+                    <a className="button" href="m.me/botsiio">Pruébalo</a>
                 </div>
             </header>
         );

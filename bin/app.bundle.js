@@ -23305,7 +23305,7 @@
 	                    ),
 	                    _react2.default.createElement(
 	                        'a',
-	                        { className: 'button', href: '' },
+	                        { className: 'button', href: 'm.me/botsiio' },
 	                        'Pru\xE9balo'
 	                    )
 	                )
